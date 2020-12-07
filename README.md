@@ -32,7 +32,7 @@ $ cd GDPNet
 $ bash run_GDPNet.sh
 ```
 
-Note: we also provided the logits_dev.txt and logits_test.txt, so we can run the last line of run_GDPNet.sh to see the results directly. Please copy the files in https://drive.google.com/drive/folders/1CMXmO8_hqB1L_Z6zfJuQ2g56tKqTq_y7?usp=sharing into GDPNet/DialogRE/
+Note: we also provided the logits_dev.txt and logits_test.txt, so we can run the last line of run_GDPNet.sh to see the results directly. Please copy the files in https://drive.google.com/drive/folders/1CMXmO8_hqB1L_Z6zfJuQ2g56tKqTq_y7?usp=sharing into GDPNet/DialogRE/GDPNet
 
 
 
