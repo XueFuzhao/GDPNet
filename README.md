@@ -1,5 +1,7 @@
 # GDPNet
 
+GDPNet: Refining Refining Latent Multi-View Graph for Relation Extraction
+
 The code is divided into two parts, DialogRE and TACRED, by datasets.
 
 # Requirements
