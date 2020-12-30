@@ -16,9 +16,11 @@ We perform our experiments on GTX 1070 GPU. Please use the same hardware and sof
 
 The model on GTX 1070 GPU has been released: https://drive.google.com/drive/folders/1eod1YmMP6pcVU4-7vTIIqE0oVOUrBERG?usp=sharing
 
-We also reproduced our results on Q8000 GPU. 
+We also reproduced our results on Q8000 GPU, and V100 GPU. 
 
 The model on Q8000 GPU has been released: https://drive.google.com/drive/folders/1CMXmO8_hqB1L_Z6zfJuQ2g56tKqTq_y7?usp=sharing
+
+The model on V100 GPU has been released: https://drive.google.com/drive/folders/1lU5SAmclacFtgqX5I3qmhGXR1RnZoAZg?usp=sharing
 
 
 # DialogRE
