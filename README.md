@@ -20,11 +20,14 @@ We also reproduced our results on Q8000 GPU.
 
 The model on Q8000 GPU has been released: https://drive.google.com/drive/folders/1CMXmO8_hqB1L_Z6zfJuQ2g56tKqTq_y7?usp=sharing
 
+
 # DialogRE
 
 This dataset can be downloaded at: https://github.com/nlpdata/dialogre
 
 Download and unzip BERT from https://github.com/google-research/bert, and set up the environment variable for BERT by export BERT_BASE_DIR=/PATH/TO/BERT/DIR in every run_GDPNet.sh.
+
+We also provide the BERT-base-uncased (PyTorch Version): https://drive.google.com/drive/folders/1qBzjWDVpXSBXfmxO6yW6ATBX3D7LW5YZ?usp=sharing
 
 (1) Please copy the *.json files into DialogRE/data
 
