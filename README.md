@@ -12,11 +12,11 @@ CUDA == 10.1
 
 Apex
 
-We perform our experiments on RTX 1070 GPU. Please use the same hardware and software environment if possible to ensure the same results.
+We perform our experiments on GTX 1070 GPU. Please use the same hardware and software environment if possible to ensure the same results.
 
 We also reproduced our results on Q8000 GPU. 
 
-The model has been released: https://drive.google.com/drive/folders/1CMXmO8_hqB1L_Z6zfJuQ2g56tKqTq_y7?usp=sharing
+The model on Q8000 GPU has been released: https://drive.google.com/drive/folders/1CMXmO8_hqB1L_Z6zfJuQ2g56tKqTq_y7?usp=sharing
 
 # DialogRE
 
