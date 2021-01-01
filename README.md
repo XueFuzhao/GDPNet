@@ -57,6 +57,8 @@ TACRED-Revisit URL: https://github.com/DFKI-NLP/tacrev/
 
 (2) Train the GDPNet model
 
+Note: We use SpanBERT large as the backbone of BERT module.
+
 ```sh
 $ cd GDPNet
 $ bash run.sh
