@@ -6,7 +6,7 @@ The code is divided into two parts, DialogRE and TACRED, by datasets.
 
 # Requirements
 
-PyTorch == 1.4
+PyTorch >= 1.4
 
 CUDA == 10.1
 
